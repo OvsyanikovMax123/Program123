@@ -13,16 +13,3 @@ int main()
 }
 
 
-//таблица квадратов
-#include <iostream>
-
-using namespace std;
-int main (void)
-{
-for(int j=1; j<=9; j+=2)
-{
-cout<<j<" "<<j*j<<endl;
-}
-return 0;
-
-}
